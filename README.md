@@ -1,2 +1,3 @@
 # SmileWorld
-Source code for the SmileBASIC game Smile World on 3DS
+Smile World is a game on the Nintendo 3DS distributed via SmileBASIC. This is
+a repository of SmileBASIC code.
